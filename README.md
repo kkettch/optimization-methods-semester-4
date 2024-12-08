@@ -1,4 +1,4 @@
-# OptimizationMethods_semester4
+# optimization-methods-semester-4
 Выполнение лабораторных работ по предмету "Методы оптимизации" на 4-ом семестре Университета ИТМО
 
 ## Статистика
